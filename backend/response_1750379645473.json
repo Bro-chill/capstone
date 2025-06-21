@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "success": true,
+    "version": "1.0",
+    "timestamp": "2025-06-20T08:34:05.437915",
+    "processing_time_ms": 186397
+  },
+  "workflow": {
+    "thread_id": "script_e1f3f6be",
+    "status": "completed",
+    "current_phase": "complete",
+    "requires_review": false,
+    "progress": {
+      "completed_analyses": 6,
+      "total_analyses": 6,
+      "percentage": 100
+    }
+  },
+  "source": {
+    "filename": "PSA PENJAGAAN HARTA INTELEK.pdf",
+    "file_type": "pdf",
+    "language": "Mixed/Unknown",
+    "total_pages": 11.3,
+    "extraction_method": "pdfplumber"
+  },
+  "script_breakdown": {
+    "summary": {
+      "total_scenes": 6,
+      "total_characters": 7,
+      "total_locations": 5,
+      "estimated_shoot_days": 4,
+      "budget_category": "medium"
+    },
+    "scenes": [
+      {
+        "id": 1,
+        "header": "Scene 1",
+        "location": {
+          "name": "PENJAGAAN HARTA INTELEK",
+          "type": "exterior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 1,
+          "dialogue_lines": [],
+          "action_lines": [],
+          "special_requirements": []
+        },
+        "characters": [],
+        "props": [],
+        "analysis": {
+          "narrative": {
+            "purpose": "Unknown",
+            "dramatic_weight": "medium",
+            "emotional_tone": "Unknown",
+            "content_type": "balanced"
+          },
+          "production": {
+            "complexity": "moderate",
+            "estimated_shoot_hours": 2,
+            "setup_hours": 1,
+            "crew_size": "minimal",
+            "equipment_needs": [
+              "None"
+            ]
+          },
+          "cost": {
+            "category": "low",
+            "factors": [
+              "None"
+            ]
+          }
+        }
+      },
+      {
+        "id": 2,
+        "header": "INT.HOUSE - DAY 1 INSERT FLASHBACK",
+        "location": {
+          "name": "HOUSE",
+          "type": "interior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 2,
+          "dialogue_lines": [
+            "MAMA Syamil..Syamil buat apa tu?",
+            "SYAMIL Syamil nak buat lagu untuk mama.",
+            "SYAMIL Mama!! Mama!! bangun la mama. Mama bangun laa."
+          ],
+          "action_lines": [
+            "SYAMIL(5)playing the keyboard in his room alone.",
+            "His mother ALIYA(27) picks up a home camera and records him playing.",
+            "Aliya stops for a moment before fainting due to her disease.",
+            "Syamil quicly run towards her, shouting her name."
+          ],
+          "special_requirements": []
+        },
+        "characters": [
+          "SYAMIL",
+          "ALIYA"
+        ],
+        "props": [
+          "keyboard",
+          "home camera"
+        ],
+        "analysis": {
+          "narrative": {
+            "purpose": "To establish Syamil's love for his mother and his early interest in music",
+            "dramatic_weight": "low",
+            "emotional_tone": "Heartwarming",
+            "content_type": "dialogue_heavy"
+          },
+          "production": {
+            "complexity": "simple",
+            "estimated_shoot_hours": 4,
+            "setup_hours": 2,
+            "crew_size": "standard",
+            "equipment_needs": [
+              "Camera",
+              "Lighting",
+              "Sound"
+            ]
+          },
+          "cost": {
+            "category": "medium",
+            "factors": [
+              "Standard dialogue scene"
+            ]
+          }
+        }
+      },
+      {
+        "id": 3,
+        "header": "INT.BEDROOM - DAY",
+        "location": {
+          "name": "BEDROOM",
+          "type": "interior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 3.3,
+          "dialogue_lines": [
+            "MR AZMIL Hello! Selamat tengahari. Ini Syamil ke?",
+            "SYAMIL Ye saya. Kenapa ye?",
+            "MR AZMIL Saya En. Azmil. Producer dari Up RECORDS. Saya dah dengar demo yang awak hantar hari itu dan saya sebenarnya berminat untuk dengar full song dari awak. Boleh tak kita berjumpa?",
+            "SYAMIL Ouh! Terima kasih En. Azmi. Bila-bila masa yang En Azmil mahu saya datang,saya akan datang.",
+            "MR AZMIL Ok bagus. Nanti kita berjumpa ."
+          ],
+          "action_lines": [
+            "SYAMIL is in his bedrooms recording the final version of his song.",
+            "He sends his demo of the song to a music company in his laptop, in search of a producer.",
+            "MR AZMIL calls him and asks him for a meeting to hear the full song because he intends to produce it."
+          ],
+          "special_requirements": []
+        },
+        "characters": [
+          "SYAMIL",
+          "MR AZMIL"
+        ],
+        "props": [
+          "laptop"
+        ],
+        "analysis": {
+          "narrative": {
+            "purpose": "Story progression",
+            "dramatic_weight": "medium",
+            "emotional_tone": "Neutral",
+            "content_type": "dialogue_heavy"
+          },
+          "production": {
+            "complexity": "simple",
+            "estimated_shoot_hours": 6,
+            "setup_hours": 2,
+            "crew_size": "standard",
+            "equipment_needs": [
+              "Camera",
+              "Lighting",
+              "Sound"
+            ]
+          },
+          "cost": {
+            "category": "medium",
+            "factors": [
+              "Standard dialogue scene"
+            ]
+          }
+        }
+      },
+      {
+        "id": 4,
+        "header": "INT. CAFE - DAY",
+        "location": {
+          "name": "CAFE",
+          "type": "interior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 4,
+          "dialogue_lines": [
+            "MR AZMIL Saya minta maaf Syamil. Saya sebenarnya tidak berminat dengan muzik awak."
+          ],
+          "action_lines": [
+            "Syamil meets up with Mr. Azmil and opens up the laptop to hear the full song.",
+            "Mr. Azmil is listening to the song, Syamil excuses himself to go to the bathroom.",
+            "Mr Azmil copies the song onto his pendrive and hides it in his pocket.",
+            "Syamil returns to his home,sad and dejected."
+          ],
+          "special_requirements": []
+        },
+        "characters": [
+          "Syamil",
+          "Mr. Azmil"
+        ],
+        "props": [
+          "laptop",
+          "pendrive"
+        ],
+        "analysis": {
+          "narrative": {
+            "purpose": "Story progression",
+            "dramatic_weight": "medium",
+            "emotional_tone": "Neutral",
+            "content_type": "balanced"
+          },
+          "production": {
+            "complexity": "simple",
+            "estimated_shoot_hours": 8,
+            "setup_hours": 2,
+            "crew_size": "standard",
+            "equipment_needs": [
+              "Camera",
+              "Lighting",
+              "Sound"
+            ]
+          },
+          "cost": {
+            "category": "medium",
+            "factors": [
+              "Standard dialogue scene"
+            ]
+          }
+        }
+      },
+      {
+        "id": 5,
+        "header": "INT.HOUSE - DAY",
+        "location": {
+          "name": "HOUSE",
+          "type": "interior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 0.5,
+          "dialogue_lines": [
+            "RADI Syamil.. Syamil. Aku rasa ni lagu kau. Muzik dia sama macam muzik kau."
+          ],
+          "action_lines": [
+            "Syamil is in the house with his friends, RADI(20). They are watching television together in the . After that Radi realize that one of the artist’s song has the same sound like Syamil’s song. Syamil come and get Radi. The screen shown a new artist singing a new song that have same sounds like Syamil’s song. Syamil shocked and turn around. He then cried and look up at the ceiling."
+          ],
+          "special_requirements": []
+        },
+        "characters": [
+          "Syamil",
+          "Radi"
+        ],
+        "props": [
+          "television"
+        ],
+        "analysis": {
+          "narrative": {
+            "purpose": "Story progression",
+            "dramatic_weight": "medium",
+            "emotional_tone": "Neutral",
+            "content_type": "balanced"
+          },
+          "production": {
+            "complexity": "simple",
+            "estimated_shoot_hours": 2,
+            "setup_hours": 2,
+            "crew_size": "standard",
+            "equipment_needs": [
+              "Camera",
+              "Lighting",
+              "Sound"
+            ]
+          },
+          "cost": {
+            "category": "medium",
+            "factors": [
+              "Standard dialogue scene"
+            ]
+          }
+        }
+      },
+      {
+        "id": 6,
+        "header": "INT.STUDIO - DAY",
+        "location": {
+          "name": "STUDIO",
+          "type": "interior",
+          "time_of_day": "day"
+        },
+        "content": {
+          "estimated_pages": 0.5,
+          "dialogue_lines": [],
+          "action_lines": [
+            "MR Azmil having a cigarette.",
+            "He take some money and throw it away.",
+            "He laughing while listening to the music.",
+            "Close up to the pendrive that Mr. Azmil stole from Syamil a few days ago."
+          ],
+          "special_requirements": []
+        },
+        "characters": [
+          "MR Azmil"
+        ],
+        "props": [
+          "cigarette",
+          "money",
+          "pendrive"
+        ],
+        "analysis": {
+          "narrative": {
+            "purpose": "Story progression",
+            "dramatic_weight": "medium",
+            "emotional_tone": "Neutral",
+            "content_type": "balanced"
+          },
+          "production": {
+            "complexity": "simple",
+            "estimated_shoot_hours": 2,
+            "setup_hours": 2,
+            "crew_size": "standard",
+            "equipment_needs": [
+              "Camera",
+              "Lighting",
+              "Sound"
+            ]
+          },
+          "cost": {
+            "category": "medium",
+            "factors": [
+              "Standard dialogue scene"
+            ]
+          }
+        }
+      }
+    ],
+    "characters": {
+      "main": [
+        {
+          "name": "SYAMIL",
+          "scenes": [],
+          "scene_count": 2,
+          "role_type": "main",
+          "casting_notes": "SYAMIL - appears in 2 scenes"
+        },
+        {
+          "name": "Syamil",
+          "scenes": [],
+          "scene_count": 2,
+          "role_type": "main",
+          "casting_notes": "Syamil - appears in 2 scenes"
+        }
+      ],
+      "supporting": [
+        {
+          "name": "ALIYA",
+          "scenes": [],
+          "scene_count": 1,
+          "role_type": "supporting",
+          "casting_notes": "ALIYA - appears in 1 scenes"
+        },
+        {
+          "name": "MR AZMIL",
+          "scenes": [],
+          "scene_count": 1,
+          "role_type": "supporting",
+          "casting_notes": "MR AZMIL - appears in 1 scenes"
+        },
+        {
+          "name": "Mr. Azmil",
+          "scenes": [],
+          "scene_count": 1,
+          "role_type": "supporting",
+          "casting_notes": "Mr. Azmil - appears in 1 scenes"
+        },
+        {
+          "name": "Radi",
+          "scenes": [],
+          "scene_count": 1,
+          "role_type": "supporting",
+          "casting_notes": "Radi - appears in 1 scenes"
+        },
+        {
+          "name": "MR Azmil",
+          "scenes": [],
+          "scene_count": 1,
+          "role_type": "supporting",
+          "casting_notes": "MR Azmil - appears in 1 scenes"
+        }
+      ],
+      "interactions": [
+        {
+          "scene_id": 2,
+          "characters": [
+            "SYAMIL",
+            "ALIYA"
+          ],
+          "relationship": "Mother-son",
+          "dialogue_complexity": "simple"
+        },
+        {
+          "scene_id": 3,
+          "characters": [
+            "SYAMIL",
+            "MR AZMIL"
+          ],
+          "relationship": "Mr. Azmil seeking out Syamil",
+          "dialogue_complexity": "simple"
+        },
+        {
+          "scene_id": 4,
+          "characters": [
+            "Syamil",
+            "Mr. Azmil"
+          ],
+          "relationship": "Interaction between Syamil, Mr. Azmil",
+          "dialogue_complexity": "moderate"
+        },
+        {
+          "scene_id": 5,
+          "characters": [
+            "Syamil",
+            "Radi"
+          ],
+          "relationship": "Interaction between Syamil, Radi",
+          "dialogue_complexity": "moderate"
+        }
+      ]
+    },
+    "locations": {
+      "interior": [
+        {
+          "name": "HOUSE",
+          "scenes": [
+            2,
+            5
+          ],
+          "setup_complexity": "moderate",
+          "permit_required": false,
+          "equipment_access": "good"
+        },
+        {
+          "name": "BEDROOM",
+          "scenes": [
+            3
+          ],
+          "setup_complexity": "moderate",
+          "permit_required": false,
+          "equipment_access": "good"
+        },
+        {
+          "name": "CAFE",
+          "scenes": [
+            4
+          ],
+          "setup_complexity": "moderate",
+          "permit_required": false,
+          "equipment_access": "good"
+        },
+        {
+          "name": "STUDIO",
+          "scenes": [
+            6
+          ],
+          "setup_complexity": "moderate",
+          "permit_required": false,
+          "equipment_access": "good"
+        }
+      ],
+      "exterior": [
+        {
+          "name": "PENJAGAAN HARTA INTELEK",
+          "scenes": [
+            1
+          ],
+          "setup_complexity": "simple",
+          "permit_required": true,
+          "equipment_access": "good"
+        }
+      ],
+      "shooting_groups": [
+        {
+          "location": "PENJAGAAN HARTA INTELEK",
+          "scenes": [],
+          "estimated_days": 1
+        },
+        {
+          "location": "HOUSE",
+          "scenes": [],
+          "estimated_days": 1
+        },
+        {
+          "location": "BEDROOM",
+          "scenes": [],
+          "estimated_days": 1
+        },
+        {
+          "location": "CAFE",
+          "scenes": [],
+          "estimated_days": 1
+        },
+        {
+          "location": "STUDIO",
+          "scenes": [],
+          "estimated_days": 1
+        }
+      ]
+    },
+    "props_and_wardrobe": {
+      "props": {
+        "by_category": {
+          "Furniture": [],
+          "Electronics": [],
+          "Other": [
+            "laptop",
+            "pendrive",
+            "keyboard",
+            "cigarette",
+            "home camera",
+            "money",
+            "television"
+          ]
+        },
+        "by_scene": [
+          {
+            "scene_id": 1,
+            "required": [],
+            "complexity": "simple"
+          },
+          {
+            "scene_id": 2,
+            "required": [
+              "keyboard",
+              "home camera"
+            ],
+            "complexity": "simple"
+          },
+          {
+            "scene_id": 3,
+            "required": [
+              "laptop"
+            ],
+            "complexity": "simple"
+          },
+          {
+            "scene_id": 4,
+            "required": [
+              "laptop",
+              "pendrive"
+            ],
+            "complexity": "moderate"
+          },
+          {
+            "scene_id": 5,
+            "required": [
+              "television"
+            ],
+            "complexity": "moderate"
+          },
+          {
+            "scene_id": 6,
+            "required": [
+              "cigarette",
+              "pendrive",
+              "money"
+            ],
+            "complexity": "moderate"
+          }
+        ]
+      },
+      "wardrobe": {
+        "by_character": {
+          "MR AZMIL": {
+            "scenes": [],
+            "requirements": [
+              "Costume for MR AZMIL"
+            ],
+            "changes": 0
+          },
+          "Mr. Azmil": {
+            "scenes": [],
+            "requirements": [
+              "Costume for Mr. Azmil"
+            ],
+            "changes": 0
+          },
+          "MR Azmil": {
+            "scenes": [],
+            "requirements": [
+              "Costume for MR Azmil"
+            ],
+            "changes": 0
+          },
+          "Radi": {
+            "scenes": [],
+            "requirements": [
+              "Costume for Radi"
+            ],
+            "changes": 0
+          },
+          "Syamil": {
+            "scenes": [],
+            "requirements": [
+              "Costume for Syamil"
+            ],
+            "changes": 0
+          },
+          "ALIYA": {
+            "scenes": [],
+            "requirements": [
+              "Costume for ALIYA"
+            ],
+            "changes": 0
+          },
+          "SYAMIL": {
+            "scenes": [],
+            "requirements": [
+              "Costume for SYAMIL"
+            ],
+            "changes": 0
+          }
+        }
+      },
+      "set_decoration": []
+    }
+  },
+  "production_planning": {
+    "schedule": {
+      "total_shoot_days": 4,
+      "by_location": [
+        {
+          "location": "PENJAGAAN HARTA INTELEK",
+          "scenes": [],
+          "estimated_days": 1,
+          "priority": "medium"
+        },
+        {
+          "location": "HOUSE",
+          "scenes": [],
+          "estimated_days": 1,
+          "priority": "medium"
+        },
+        {
+          "location": "BEDROOM",
+          "scenes": [],
+          "estimated_days": 1,
+          "priority": "medium"
+        },
+        {
+          "location": "CAFE",
+          "scenes": [],
+          "estimated_days": 1,
+          "priority": "medium"
+        },
+        {
+          "location": "STUDIO",
+          "scenes": [],
+          "estimated_days": 1,
+          "priority": "medium"
+        }
+      ],
+      "cast_schedule": {
+        "SYAMIL": {
+          "scenes": [
+            2,
+            3
+          ],
+          "total_days": 2,
+          "consecutive": true
+        },
+        "ALIYA": {
+          "scenes": [
+            2
+          ],
+          "total_days": 1,
+          "consecutive": true
+        },
+        "MR AZMIL": {
+          "scenes": [
+            3
+          ],
+          "total_days": 1,
+          "consecutive": true
+        },
+        "Syamil": {
+          "scenes": [
+            4,
+            5
+          ],
+          "total_days": 2,
+          "consecutive": true
+        },
+        "Mr. Azmil": {
+          "scenes": [
+            4
+          ],
+          "total_days": 1,
+          "consecutive": true
+        },
+        "Radi": {
+          "scenes": [
+            5
+          ],
+          "total_days": 1,
+          "consecutive": true
+        },
+        "MR Azmil": {
+          "scenes": [
+            6
+          ],
+          "total_days": 1,
+          "consecutive": true
+        }
+      }
+    },
+    "budget": {
+      "overall_category": "medium",
+      "major_cost_drivers": [
+        "Location rentals",
+        "Equipment",
+        "Crew",
+        "Talent",
+        "Post-production"
+      ],
+      "optimization_opportunities": [
+        "Group scenes by location",
+        "Use natural lighting when possible"
+      ],
+      "scene_breakdown": [
+        {
+          "scene_id": 1,
+          "category": "low",
+          "factors": [
+            "None"
+          ]
+        },
+        {
+          "scene_id": 2,
+          "category": "medium",
+          "factors": [
+            "Standard dialogue scene"
+          ]
+        },
+        {
+          "scene_id": 3,
+          "category": "medium",
+          "factors": [
+            "Standard dialogue scene"
+          ]
+        },
+        {
+          "scene_id": 4,
+          "category": "medium",
+          "factors": [
+            "Standard dialogue scene"
+          ]
+        },
+        {
+          "scene_id": 5,
+          "category": "medium",
+          "factors": [
+            "Standard dialogue scene"
+          ]
+        },
+        {
+          "scene_id": 6,
+          "category": "medium",
+          "factors": [
+            "Standard dialogue scene"
+          ]
+        }
+      ]
+    },
+    "crew_requirements": {
+      "core_crew": [
+        "Camera",
+        "Director",
+        "Sound",
+        "Lighting",
+        "Gaffer",
+        "DP"
+      ],
+      "by_scene": [
+        {
+          "scene_id": 1,
+          "crew_size": "minimal",
+          "specialists": []
+        },
+        {
+          "scene_id": 2,
+          "crew_size": "standard",
+          "specialists": []
+        },
+        {
+          "scene_id": 3,
+          "crew_size": "standard",
+          "specialists": []
+        },
+        {
+          "scene_id": 4,
+          "crew_size": "standard",
+          "specialists": []
+        },
+        {
+          "scene_id": 5,
+          "crew_size": "standard",
+          "specialists": []
+        },
+        {
+          "scene_id": 6,
+          "crew_size": "standard",
+          "specialists": []
+        }
+      ]
+    }
+  },
+  "quality_control": {
+    "validation": {
+      "data_complete": true,
+      "json_valid": true,
+      "analysis_errors": []
+    },
+    "human_review": {
+      "completed": true,
+      "feedback_incorporated": false,
+      "revisions_needed": {
+        "cost": false,
+        "props": false,
+        "location": false,
+        "character": false,
+        "scene": false,
+        "timeline": false
+      }
+    }
+  }
+}
