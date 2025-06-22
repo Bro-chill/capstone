@@ -1,3 +1,6 @@
+# Workflow
+![Sequential Flow](langgraph_edges.png)
+
 # Execution Order
 ### Phase 1: Data Extraction
 1. pdf_utils.py (if PDF) → Extract text
