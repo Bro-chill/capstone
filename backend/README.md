@@ -31,6 +31,7 @@ Workflow Manager → Coordinates everything → Handles human feedback
 **Output Flow**:
 All Results → Data Transformer → Enhanced JSON → API Response
 
+---
 ### Endpoints:
 
 * POST
@@ -45,3 +46,17 @@ All Results → Data Transformer → Enhanced JSON → API Response
   * **/scenes/{thread_id}/{scene_id}**: Get specific scene data
 * GET
   * **/departments/{thread_id}/{department}**: Get department-specific data
+---
+### Agents vs Graph function
+* **Agents** = The "brain" (domain expertise and analysis)
+* **Graph** = The "conductor" (orchestration and state management)
+
+|Aspect|Agents|Graph|
+|------|------|-----|
+|Focus|Domain analysis|Workflow management|
+|Input|Raw Script Data|Workflow state|
+|Ouput|Analysis Results|State Updates|
+|Dependencies|AI models,Domain Logic|Agents,State Management|
+|Error Handling|Domain Specific fallbacks|Workflow-level recovery|
+|State|Stateless|Stateful|
+|Reusability|Highly reusable|Workflow-specific|
